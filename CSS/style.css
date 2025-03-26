@@ -463,7 +463,7 @@ display: inline-block;
         .contact .inf .social .i-link .ins:hover{
             filter: drop-shadow(0 0 10px red);
             transform: scale(1.4);
-            color:#e1306c;
+            color: #E1306C;
         }
         .contact .inf .social .i-link .wa:hover{
             filter: drop-shadow(0 0 10px rgb(33, 78, 33));
